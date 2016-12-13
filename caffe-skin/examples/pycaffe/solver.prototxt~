@@ -1,0 +1,19 @@
+net: "./linreg.prototxt"
+base_lr: 2e-3
+#base_lr: 2e-4
+lr_policy: "step"
+stepsize: 3000
+gamma: 0.1
+#iter_size: 2
+iter_size: 1 
+display: 10
+average_loss:10
+max_iter: 10000
+momentum: 0.9
+weight_decay: 0.0005
+#test_interval: 1000
+#test_iter: 100
+#test_initialization: false
+snapshot: 3000
+snapshot_prefix: ".train"
+solver_mode: GPU
