@@ -1,6 +1,6 @@
 ### Introduction
 
-This repository contains the modified caffe library and network architectures for our paper "[Automated Melanoma Recognition in Dermoscopy Images via Very Deep Residual Networks](http://www.cse.cuhk.edu.hk/~lqyu/skin)".
+This repository contains the modified caffe library and network architectures for our paper "[Automated Melanoma Recognition in Dermoscopy Images via Very Deep Residual Networks](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7792699)".
 
 ### Installation
 For installation, please follow the instructions of [Caffe](http://caffe.berkeleyvision.org/installation.html).
