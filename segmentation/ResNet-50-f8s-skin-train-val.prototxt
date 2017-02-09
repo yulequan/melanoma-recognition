@@ -516,7 +516,7 @@ layer {
 	param {
 	 lr_mult: 0
 	}
-
+}
 layer {
 	bottom: "res2c_branch2b"
 	top: "res2c_branch2b"
